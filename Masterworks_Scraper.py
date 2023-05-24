@@ -339,10 +339,6 @@ while(True):
 
 update_rate = user_input * 60
 
-# for debugging only
-#name1 = 'keith.c.newton@gmail.com'
-#pwd1 = 'TEMPproject2021'
-
 if __name__ == '__main__':
 
     driver, path, options = initialize_bot()
